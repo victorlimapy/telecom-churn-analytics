@@ -155,7 +155,6 @@ Construção da interface e dos gráficos interativos:
 ```python
 st.metric("Acurácia no teste", f"{accuracy:.0%}")
 st.plotly_chart(fig, use_container_width=True)
-Demo Online: https://telecom-churn-analytics-01.streamlit.app/
 ```
 
 ---
@@ -178,3 +177,4 @@ Demo Online: https://telecom-churn-analytics-01.streamlit.app/
 
 GitHub: [victorlimapy](https://github.com/victorlimapy)  
 LinkedIn: [victorlimapy](https://www.linkedin.com/in/victorlimapy/)
+Demo Online: (https://telecom-churn-analytics-01.streamlit.app/)
