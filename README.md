@@ -177,4 +177,5 @@ st.plotly_chart(fig, use_container_width=True)
 
 GitHub: [victorlimapy](https://github.com/victorlimapy)  
 LinkedIn: [victorlimapy](https://www.linkedin.com/in/victorlimapy/)
-Demo Online: (https://telecom-churn-analytics-01.streamlit.app/)
+
+Demo Online: https://telecom-churn-analytics-01.streamlit.app/
