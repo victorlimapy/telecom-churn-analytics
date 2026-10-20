@@ -156,7 +156,7 @@ Construção da interface e dos gráficos interativos:
 st.metric("Acurácia no teste", f"{accuracy:.0%}")
 st.plotly_chart(fig, use_container_width=True)
 ```
-
+Demo Online: https://telecom-churn-analytics-01.streamlit.app/
 ---
 
 ## Habilidades Demonstradas
